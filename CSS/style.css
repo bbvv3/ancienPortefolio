@@ -82,6 +82,11 @@ section ul{
     text-align: justify;
     width: 97%;
 }
+.école{
+    margin-top: 2px;
+    font-size: 26px;
+    font-style: italic;
+}
 a{
     text-decoration: none;
     color: #000;
