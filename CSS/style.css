@@ -87,6 +87,7 @@ section ul{
     font-size: 26px;
     font-style: italic;
     margin-bottom: 6px;
+    list-style-type: none;
 }
 a{
     text-decoration: none;
