@@ -63,10 +63,10 @@ h3{
 
 }
 section{
-    margin: 10px 0 10px 0;
+    margin: 10px 0 50px 0;
     background-color: #d9d9d9;
     border-radius: 7px;
-    border: #FFF solid 3px;  
+    border: #FFF solid 3px; 
 }
 #competence, #etudes{
     display: none;
@@ -82,10 +82,11 @@ section ul{
     text-align: justify;
     width: 97%;
 }
-.école{
+.detail{
     margin-top: 2px;
     font-size: 26px;
     font-style: italic;
+    margin-bottom: 6px;
 }
 a{
     text-decoration: none;
