@@ -77,6 +77,11 @@ section{
 section ul{
     margin: 10px 0 10px 0;
 }
+.descriptif{
+    font-size: 26px;
+    text-align: justify;
+    width: 97%;
+}
 a{
     text-decoration: none;
     color: #000;
